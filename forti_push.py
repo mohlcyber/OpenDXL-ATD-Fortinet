@@ -233,6 +233,7 @@ if __name__ == "__main__":
             for line in members:
                 if host in line["name"]:
                     print "Host in group already"
+                    fgt.logout()
                     exit()
 
             print "Host is not in group"
