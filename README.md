@@ -30,7 +30,7 @@ OpenDXL Python installation
 3. ePO Certificate Authority (CA) Import ([Link](https://opendxl.github.io/opendxl-client-python/pydoc/epocaimport.html))
 4. ePO Broker Certificates Export ([Link](https://opendxl.github.io/opendxl-client-python/pydoc/epobrokercertsexport.html))
 
-Fortinet Firewall (tested with FortiGate 5.6.2)
+Fortinet Firewall (tested with FortiGate 6.0.3)
 
 ## Configuration
 McAfee ATD receives files from multiple sensors like Endpoints, Web Gateways, Network IPS or via Rest API. 
