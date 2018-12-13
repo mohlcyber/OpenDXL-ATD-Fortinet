@@ -50,9 +50,9 @@ Before Fortinet Firewalls can be updated via API it is neccessary to create a us
 ### forti_push.py
 The forti_push.py receives the discovered malicious IP's and will use API's to update Firewall rules / groups.
 
-Change the username and password as well as the IP address. The IP address should point to the Fortinet Firewall.
+Change IP/Hostname address and API token.
 
-<img width="243" alt="screen shot 2017-09-20 at 13 48 33" src="https://user-images.githubusercontent.com/25227268/30642288-81e724e0-9e0a-11e7-91a9-a783e8d7e649.png">
+<img width="529" alt="screenshot 2018-12-13 at 22 44 40" src="https://user-images.githubusercontent.com/25227268/49969411-bd081b80-ff28-11e8-9f50-30e926064cb9.png">
 
 The script will:
 
